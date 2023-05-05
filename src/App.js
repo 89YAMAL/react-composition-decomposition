@@ -13,7 +13,6 @@ import TvWidget from './components/widgets/TvWidget';
 import TvWidgetOnline from './components/widgets/TvWidgetOnline';
 
 
-
 const news = [
   {link: '#', icon: require("./Media/twitter.png"), text: "Самая главная новость к этому часу"},
   {link: '#', icon: require("./Media/twitter.png"), text: "Главная новость к этому часу"},
