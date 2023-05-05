@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-composition-decomposition/static/css/main.d1e29c9a.css",
+    "main.js": "/react-composition-decomposition/static/js/main.06bc50b9.js",
+    "static/js/787.3fbac015.chunk.js": "/react-composition-decomposition/static/js/787.3fbac015.chunk.js",
+    "static/media/furious.jpeg": "/react-composition-decomposition/static/media/furious.ecdac84da4ff97bbb35d.jpeg",
+    "static/media/error.jpeg": "/react-composition-decomposition/static/media/error.27e06c525419a82ab9cc.jpeg",
+    "static/media/ya.png": "/react-composition-decomposition/static/media/ya.c2986d648449f5881954.png",
+    "static/media/twitter.png": "/react-composition-decomposition/static/media/twitter.fa540f23bc4ac05d123d.png",
+    "static/media/play.png": "/react-composition-decomposition/static/media/play.b1e56fe4b68102fe301c.png",
+    "static/media/rain_weather_icon_151998.png": "/react-composition-decomposition/static/media/rain_weather_icon_151998.aa0f69c72db8e630e778.png",
+    "index.html": "/react-composition-decomposition/index.html",
+    "main.d1e29c9a.css.map": "/react-composition-decomposition/static/css/main.d1e29c9a.css.map",
+    "main.06bc50b9.js.map": "/react-composition-decomposition/static/js/main.06bc50b9.js.map",
+    "787.3fbac015.chunk.js.map": "/react-composition-decomposition/static/js/787.3fbac015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e29c9a.css",
+    "static/js/main.06bc50b9.js"
+  ]
+}
