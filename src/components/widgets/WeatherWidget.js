@@ -5,7 +5,7 @@ export default function WeatherWidget(props) {
     return (
         <Widget title="Погода" link="#">
             <div className="weather">
-                <img src={props.icon} />
+                <img src={props.icon} alt="" />
                 <span className="weatherMain">
                     <a href={props.mainLink}>{props.mainTemp}</a>
                 </span>

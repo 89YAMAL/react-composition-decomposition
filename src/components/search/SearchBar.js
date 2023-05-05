@@ -3,7 +3,7 @@ import React from "react";
 export default function SearchBar() {
     return (
         <div className="searchBar">
-            <img src={require("../../Media/ya.png")} className="logo" />
+            <img src={require("../../Media/ya.png")} className="logo" alt="" />
             <div className="search">
                 <form>
                     <input className="searchArea" type="search" name="search" />

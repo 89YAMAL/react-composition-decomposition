@@ -77,7 +77,7 @@ function App() {
           <PopularWidget popular={popular} />
         </div>
         <div>
-          <Widget title="Карта России" link="#"><a href="#">Расписания</a></Widget>
+          <Widget title="Карта России" link="#"><a href="/#">Расписания</a></Widget>
           <TvWidget tv={tv} />
         </div>
         <div>

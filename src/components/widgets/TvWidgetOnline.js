@@ -7,7 +7,7 @@ export default function TvWidget(props) {
             <ul>
                 {props.tvOnline.map((item) => 
                     <li>
-                        <img className="tvIcon" src={item.icon} />
+                        <img className="tvIcon" src={item.icon} alt="" />
                         <span className="programm">{item.programm} </span>
                         <span className="channel">{item.channel} </span>
                     </li>

@@ -4,7 +4,7 @@ export default function WorkOnBugs(props) {
     return (
         <div className="workOnBugs">
             <a href={props.link}>
-                <img className="workOnBugs_Image" src={props.image} />
+                <img className="workOnBugs_Image" src={props.image} alt=""/>
             </a>
             <h5>
                 <a href={props.link}>{props.title}</a>
