@@ -1,0 +1,272 @@
+body {
+  padding: 3em 7em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+li {
+  display: flex;
+  padding-bottom: 5px;
+}
+
+li img {
+  width: 16px;
+  padding-right: 6px;
+  
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.newsPanel {
+  display: flex;
+  flex-direction: column;
+}
+
+.news {
+  display: flex;
+  flex-direction: column;
+}
+
+.navigate {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.filterNews {
+  display: flex;
+  flex-direction: row;
+}
+
+.filter {
+  color: #0f58bc;
+  font-size: 18px;
+  padding: 6px 12px;
+}
+
+.listNews li {
+  color: black;
+  font-size: 14px;
+}
+
+.date {
+  font-size: 12px;
+  color: gray;
+}
+
+.active {
+  font-weight: 700;
+}
+
+.exchangeRates {
+  display: flex;
+  padding-left: 15px;
+  font-size: 14px;
+}
+
+.rates {
+  margin-right: 12px;
+}
+
+.rates span {
+  color: gray;
+  margin-left: 5px;
+}
+
+.rates a {
+ font-weight: 600;
+ margin-right: 5px;
+}
+
+.workOnBugs {
+  display: flex;
+  flex-direction: column;
+  padding-left: 70px;
+  align-self: center;
+}
+
+.workOnBugs_Image {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+}
+
+.workOnBugs h5 {
+  font-size: 18px;
+  color: #0f58bc;
+  margin: 5px 0;
+}
+
+.workOnBugs p {
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+/* .searchBox {
+} */
+
+.searchMenu {
+  display: flex;
+  color: #0f58bc;
+  font-size: 16px;
+  margin: 7px;
+}
+
+.searchMenu li{
+  padding: 5px 12px;
+}
+
+.logo {
+  width: 200px;
+  margin-top: -34px;
+  background-position: center center;
+  background-size: cover;
+}
+
+.searchBar {
+  display: flex;
+  margin-left: -180px;
+}
+
+.searchArea {
+  width: 700px;
+  height: 40px;
+  border: 2px solid #ffd85d;
+}
+
+.searchButton {
+  background-color: #ffd85d;
+  border: 2px solid #ffd85d;
+  height: 40px;
+  width: 80px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.search p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.search span {
+  color: gray;
+}
+
+form {
+  display: flex;
+}
+
+.banner {
+  width: 700px;
+  height: 120px;
+  margin-left: 22px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.widget {
+  margin-bottom: 12px;
+  position: relative;
+  max-width: 300px;
+}
+
+.weather{
+  display: flex;
+}
+
+.weather img {
+  width: 50px;
+}
+
+.widgetTitle {
+  color: #0f58bc;
+  font-size: 18px;
+  margin: 25px 0 15px 0;
+}
+
+.weatherMain {
+  color: black;
+  font-size: 28px;
+  padding: 5px 15px;
+}
+
+.weatherSidebar {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  color: black;
+  padding: 5px 0;
+}
+
+.weatherSidebar a {
+  padding-bottom: 3px;
+}
+
+.footer {
+  padding-left: 20px;
+}
+
+.popularTheme {
+  font-weight: 600;
+}
+
+.widget ul {
+  margin-left: 0;
+}
+
+.buttonTv {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: white;
+  background-color: hsl(215, 42%, 74%);
+  border: 3px solid hsl(215, 42%, 74%);
+  width: 70px;
+  height: 30px;
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+.widget ul li {
+  padding-bottom: 6px;
+}
+
+.time {
+  margin-right: 12px;
+}
+
+.programm {
+  margin-right: 7px;
+}
+
+.channel {
+  color: gray;
+}
+
+.footer {
+  display: flex;
+}
+
+.footer div {
+  margin-right: 30px;
+}
+
+.tvIcon {
+  width: 25px;
+}
